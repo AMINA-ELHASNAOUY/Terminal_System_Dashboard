@@ -1,6 +1,8 @@
-# ✨ termdash
+✨ termdash
 
-A live terminal system monitor — CPU, memory, and top processes — rendered with reactive color-coded bars. Built from scratch on top of `psutil`, no external monitoring library doing the heavy lifting.
+A live terminal system monitor — CPU, memory, and top processes — rendered with reactive, color-coded bars. Built from scratch on top of psutil, with no external monitoring library doing the heavy lifting.
+
+I wanted a lightweight way to watch system load without opening Activity Monitor, and used it as an excuse to get comfortable with rich's live-rendering API.
 
 ![termdash demo](demo.gif)
 
